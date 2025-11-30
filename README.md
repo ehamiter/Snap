@@ -1,9 +1,13 @@
 # Snap
 
+<img src="snap-icon.png" width="128" alt="Snap icon">
+
 A macOS utility for processing iPhone screenshots. Drag and drop an image to:
 
 - **Resize for App Store** – Scales images to 1260×2736 pixels for App Store submissions
 - **Generate iPhone Mockup** – Composites your screenshot into an iPhone 15 Pro frame
+
+![Snap app screenshot](snap-app.png)
 
 ## Requirements
 
