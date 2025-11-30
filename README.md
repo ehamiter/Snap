@@ -9,17 +9,23 @@ A macOS utility for processing iPhone screenshots. Drag and drop an image to:
 
 ![Snap app screenshot](snap-app.png)
 
-## Requirements
+## Installation
 
-- macOS 15.5+
-- Xcode 16+
+[**Download Snap.zip**](https://github.com/ehamiter/Snap/releases/download/v1.0.0/Snap.zip)
+
+Unzip and drag Snap.app to your Applications folder.
+
+**Requirements:** macOS 15.5+
 
 ## Usage
 
-1. Open in Xcode and run the Snap scheme
-2. Drag an iPhone screenshot onto the drop zone
-3. Select your desired processing mode
-4. The processed image is saved alongside the original and revealed in Finder
+1. Drag an iPhone screenshot onto the drop zone
+2. Select your desired processing mode
+3. The processed image is saved alongside the original and revealed in Finder
+
+## Building from Source
+
+Requires Xcode 16+. Open the project and run the Snap scheme.
 
 ## License
 
